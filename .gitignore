@@ -1,0 +1,5 @@
+**/run
+*.DS_Store
+*.log
+*.env
+**main.c**
