@@ -3,3 +3,4 @@
 *.log
 *.env
 **main.c**
+**.vscode/**
